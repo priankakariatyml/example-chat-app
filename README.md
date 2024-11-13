@@ -27,7 +27,7 @@
 This chat app allows the user to converse with Gemini and use it as an intelligent, personal AI assistant.
 Two modes of text-only chat are currently available in this app, non-streaming and streaming.
 
-In non-streaming mode, a response is returned after Gemini completes the entire text generation process.
+In non-streaming mode, a response        is returned after Gemini completes the entire text generation process.
 
 Streaming mode uses Gemini's streaming capability to achieve faster interactions.
 
